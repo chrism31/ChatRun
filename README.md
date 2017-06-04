@@ -13,7 +13,7 @@ This section will cover how to run the app using Ionic's lab. In order to do so,
 
 Download the latest version of [Node.js](https://nodejs.org/en/) from their website. At the time of creation of this project, Node version 8.0.0 was used.
 
-Once Node.js is downloaded and installed locally, open Terminal and type in the following command.
+Once Node.js is downloaded and installed locally, open Terminal (in Unix based OS) or the Node Command Prompt (Windows) and type in the following command.
 ```
 npm install ionic cordova -g
 ```
@@ -21,7 +21,7 @@ This will install Ionic and Cordova.
 
 ## How to run ChatRun
 
-Once Ionic has been installed, navigate to the directory where this repository was cloned to. In Terminal, type the following command.
+Once Ionic has been installed, navigate to the directory where this repository was cloned to. In Terminal or the Node Command Prompt, type the following command.
 ```
 ionic serve --lab
 ```
